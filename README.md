@@ -15,12 +15,15 @@ At the heart of the **Quantum Coin Game** resides the captivating and thought-pr
 🔗 *For a more in-depth exploration of the mysteries of quantum superposition, venture into the "Qiskit Textbook" superposition page.*
 
 ## What are the rules of this game ?♟️
+We will start with the Coin Facing Heads
 
 1.Quantum Computer plays a move but it is not revealed to the Opponent(Human).
+
 2.Opponent(Human) plays a move and it is also not revealed to the Quantum Computer.
+
 3.Finally Quantum Computer plays a move.
    
- Results are shown. If its heads, then Quantum Computer wins. Else, Opponent(Human) wins.
+ Results are shown. If its heads, then Quantum Computer wins. Else, the Opponent(Human) wins.
     
 🎭 In the realm of the Quantum Coin Game, the term **"playing a move"** harmoniously resonates with the essence of **"flipping the coin"**, with the coin assumed to possess inherent fairness.
 
@@ -29,7 +32,7 @@ At the heart of the **Quantum Coin Game** resides the captivating and thought-pr
 
 ## Quick Exercise: Exploring Variations 🤔
 
-As you delve into the intricacies of the Quantum Coin Game, gather your minds in groups to ponder and attempt answering the following questions:
+As you delve into the intricacies of the Quantum Coin Game, gather your minds in groups to ponder and attempt to answer the following questions:
 
 **The rules we've explored so far form the bedrock of the game, yet it's intriguing to contemplate variations that could potentially yield significant shifts in outcomes:**
 
