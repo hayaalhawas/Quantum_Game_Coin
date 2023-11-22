@@ -51,4 +51,4 @@ As you delve into the intricacies of the Quantum Coin Game, gather your minds in
 
 ## References 🔗 
 * [Ted talk by Sohini Ghosh](https://www.ted.com/talks/shohini_ghose_a_beginner_s_guide_to_quantum_computing#t-208006).
-* [Quantum Coin Flipping from Qiskit ](https://learn.qiskit.org/course/ch-demos/coin-game#concept)https://learn.qiskit.org/course/ch-demos/coin-game#concept).
+* [Quantum Coin Flipping from Qiskit ](https://learn.qiskit.org/course/ch-demos/coin-game#concept)https://learn.qiskit.org/course/ch-demos/coin-game#concept
